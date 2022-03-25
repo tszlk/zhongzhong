@@ -44,7 +44,7 @@ $(function() {
             },
         ],
         multiselect: true,
-        rowNum: 1000,
+        rowNum: 100000,
         rowList:[10,20,30],
         viewrecords: true,
         gridview: true,
